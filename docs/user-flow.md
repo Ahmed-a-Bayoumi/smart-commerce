@@ -1,4 +1,4 @@
-	Home page 
+		Home page 
 - Hero Banner
 - Featured Products
 - Best Sellers
@@ -12,7 +12,9 @@
 - Why Choose Decora
 - Newsletter Subscription
 - Footer
-	Login
+  
+		Login
+  
 - Email
 - Password
 - Remember Me
@@ -21,7 +23,9 @@
 - Login Button
 - Continue with Google (Future)
 - Create New Account
-	Register Page
+  
+		Register Page
+  
 - First Name
 - Last Name
 - Email
@@ -30,7 +34,9 @@
 - Confirm Password
 - Terms & Conditions
 - Register Button
-	Category Page
+  
+		Category Page
+  
 - Category Banner
 - Category Description
 - Product Grid
@@ -75,7 +81,8 @@ Sort By
 - Related Products
 - Frequently Bought Together
 
-	Shopping Cart
+		Shopping Cart
+  
 - Product List
 - Quantity Selector
 - Remove Item
@@ -85,7 +92,9 @@ Sort By
 - Order Summary
 - Total Price
 - Checkout Button
-	Checkout
+  
+		Checkout
+  
 Shipping Address
 Billing Address
 Delivery Method
@@ -93,7 +102,7 @@ Payment Method
 Order Summary
 Place Order
 
-	Payment
+		Payment
 Credit Card
 Visa
 MasterCard
@@ -101,7 +110,7 @@ Paymob (Future)
 Payment Success
 Payment Failed
 
-	Order Tracking
+		Order Tracking
 Order Number
 Current Status
 Processing
@@ -111,7 +120,7 @@ Delivered
 Invoice
 Cancel Order (Before Shipping)
 
-	Profile
+		Profile
 Personal Information
 Addresses
 Order History
@@ -119,7 +128,7 @@ Wishlist
 Change Password
 Logout
 
-	Dashboard
+		Dashboard
 Statistics
 Revenue
 Orders
